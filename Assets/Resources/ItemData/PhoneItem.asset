@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532b1931c2554e6fb9cefc2cb4a58a32, type: 3}
+  m_Name: PhoneItem
+  m_EditorClassIdentifier: 
+  name: phone
+  icon: {fileID: 21300000, guid: 152aacd01dc27ab4fb5915b583261c4d, type: 3}
+  detailImage: {fileID: 21300000, guid: dcf679bceeb69de41869c2d4bb183cb1, type: 3}
+  prefab: {fileID: 3535473601529558972, guid: 9c993bdd1f0fb3e4da5b61dabec5fbb3, type: 3}
+  spawnedObject: {fileID: 0}
+  isConsumable: 0
+  maxStackCount: 1

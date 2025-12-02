@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ArchViz.unity
+    guid: 6433fb4ba1f0a9e42aa110c989f7e376
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: 102113df4790bb1409394841daeb3eb5,
+      type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f,
+      type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ca8866b8e3d9e514ab68d79a59adc7eb,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d44dffe745e21cb42b08031952103376,
+      type: 2}
